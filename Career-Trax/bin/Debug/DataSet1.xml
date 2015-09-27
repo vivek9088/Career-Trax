@@ -1,0 +1,27 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Faculty>
+    <fname>sf</fname>
+    <lname>sfs</lname>
+    <number>24242</number>
+    <desig>sfs</desig>
+    <dept />
+    <extn />
+    <mobile>4444444444</mobile>
+    <email>fssfsfsfs@gmail.com</email>
+    <notes />
+    <facid>11</facid>
+  </Faculty>
+  <Faculty>
+    <fname>vivek</fname>
+    <lname>sridhar</lname>
+    <number>9940248765</number>
+    <desig>staff</desig>
+    <dept>Computer Science</dept>
+    <extn />
+    <mobile>9940248766</mobile>
+    <email>viveks@sase.com</email>
+    <notes />
+    <facid>12</facid>
+  </Faculty>
+</NewDataSet>

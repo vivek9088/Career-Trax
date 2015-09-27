@@ -1,0 +1,23 @@
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\bin\Debug\InternshipManagementSystem.exe.config
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\bin\Debug\InternshipManagementSystem.exe
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\bin\Debug\InternshipManagementSystem.pdb
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\Career Trax.csprojResolveAssemblyReference.cache
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.CompanyForm.resources
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.FacultyForm.resources
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.FormSelection.resources
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.MasterForm.resources
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.Report.resources
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.StudentEducation.resources
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.Properties.Resources.resources
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.StudentInternship.resources
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.StudentKwSkills.resources
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.StudentInterest.resources
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\Career Trax.csproj.GenerateResource.Cache
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.exe
+D:\Studies\Projects\IMS\InternshipManagementSystem\InternshipManagementSystem\obj\x86\Debug\InternshipManagementSystem.pdb
+D:\Studies\Projects\IMS\InternshipManagementSystem\Career Trax\bin\Debug\InternshipManagementSystem.exe.config
+D:\Studies\Projects\IMS\InternshipManagementSystem\Career Trax\obj\x86\Debug\InternshipManagementSystem.exe
+D:\Studies\Projects\IMS\InternshipManagementSystem\Career Trax\obj\x86\Debug\InternshipManagementSystem.pdb
+D:\Studies\Projects\IMS\InternshipManagementSystem\Career-Trax\bin\Debug\InternshipManagementSystem.exe.config
+D:\Studies\Projects\IMS\InternshipManagementSystem\Career-Trax\obj\x86\Debug\InternshipManagementSystem.exe
+D:\Studies\Projects\IMS\InternshipManagementSystem\Career-Trax\obj\x86\Debug\InternshipManagementSystem.pdb
